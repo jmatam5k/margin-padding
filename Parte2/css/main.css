@@ -1,0 +1,18 @@
+div{
+	display: block;
+	margin-top: auto;
+	margin-left: 38px;
+	margin-bottom: 8px;
+	padding-top: 15px;
+	padding-right: 10px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+	border: 1.5px solid #FB8414;
+	width: 200px;
+	height: 202px;
+
+}
+
+p{
+	text-align: left;
+}

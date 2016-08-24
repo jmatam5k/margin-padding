@@ -1,0 +1,48 @@
+div{
+	display: block;
+	margin-top: auto;
+	margin-left: 38px;
+	margin-bottom: 0px;
+	padding-top: 15px;
+	padding-right: 10px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+	border: 1px solid #FB8414;
+	width: 180px;
+	height: 188px;
+
+}
+.caja2{
+	display: block;
+	margin-top: auto;
+	margin-left: 38px;
+	margin-bottom: 0px;
+	padding-top: 15px;
+	padding-right: 10px;
+	padding-bottom: 11px;
+	padding-left: 10px;
+	border: 1px solid #FB8414;
+	width: 180px;
+	height: 202px;
+
+}
+
+.caja3{
+	display: block;
+	margin-top: auto;
+	margin-left: 38px;
+	margin-bottom: 0px;
+	padding-top: 15px;
+	padding-right: 10px;
+	padding-bottom: 40px;
+	padding-left: 10px;
+	border: 1px solid #FB8414;
+	width: 180px;
+	height: 190px;
+
+}
+
+p{
+	text-align: left;
+	font-size: 14.5px;
+}
